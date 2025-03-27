@@ -1,0 +1,61 @@
+2025-03-23 14:13:40,356 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-23 14:15:52,080 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-23 14:16:59,298 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-23 15:45:22,123 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1204","message":"User exists!"} 
+2025-03-23 15:46:37,288 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1204","message":"User exists!"} 
+2025-03-23 15:49:31,704 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1204","message":"User exists!"} 
+2025-03-23 15:54:59,911 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-23 15:58:11,119 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1204","message":"User exists!"} 
+2025-03-23 15:59:06,450 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-23 16:02:08,843 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-23 16:06:37,299 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1204","message":"User exists!"} 
+2025-03-23 16:07:57,778 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-23 16:20:24,019 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-23 16:31:25,944 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-23 16:35:36,597 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-23 16:43:14,683 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-23 16:48:36,215 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-23 16:50:37,138 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-23 17:08:16,539 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 10:15:50,499 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 10:16:01,431 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 10:21:14,940 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:01:48,265 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:06:58,273 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-24 12:08:31,655 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:10:46,887 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:14:10,915 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:16:49,521 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:23:35,656 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:25:19,706 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:28:47,295 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:31:02,336 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:34:08,232 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-24 12:41:43,079 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:48:40,912 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 12:52:43,068 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 13:01:23,477 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 14:54:50,754 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 14:55:45,399 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 15:04:43,568 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 15:11:48,192 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-24 15:13:34,877 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 15:18:35,545 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 15:25:08,666 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 15:28:36,465 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-24 15:29:14,430 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-03-25 09:27:37,925 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-25 09:28:07,245 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-03-25 09:33:56,400 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-25 09:34:47,118 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-03-25 09:35:36,548 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-25 09:36:26,455 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-03-25 09:39:13,247 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-25 09:40:09,240 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-03-25 09:49:11,077 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-25 09:50:07,840 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-25 09:51:31,196 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-25 09:52:15,718 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-03-25 12:35:13,540 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-03-25 12:37:37,266 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-03-25 12:38:19,239 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
