@@ -19,7 +19,7 @@ def create_user_fixture():
 
 
 
-@pytest.mark.usefixtures("driver")
+#@pytest.mark.usefixtures("driver")
 def test_login_via_web(driver, create_user_fixture):
     username, password = create_user_fixture
     driver.get('https://demoqa.com/login')
