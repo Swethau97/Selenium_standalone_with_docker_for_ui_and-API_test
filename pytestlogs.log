@@ -63,3 +63,17 @@
 2025-03-28 14:58:37,052 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
 2025-03-28 14:59:02,569 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
 2025-03-28 14:59:22,668 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-09-24 21:52:00,918 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-09-25 19:11:10,202 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-09-25 19:11:29,965 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-10-05 21:04:21,261 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-10-05 21:08:44,083 - Logger to record the flow of Webservice Books - ERROR - Request failed:{"code":"1300","message":"Passwords must have at least one non alphanumeric character, one digit ('0'-'9'), one uppercase ('A'-'Z'), one lowercase ('a'-'z'), one special character and Password must be eight characters or longer."} 
+2025-10-05 21:11:27,927 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-10-05 21:13:13,896 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-10-05 21:14:05,454 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-10-05 21:14:50,984 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-10-05 21:16:37,730 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-10-05 21:22:01,250 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-10-12 13:49:31,361 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created
+2025-10-12 13:50:04,738 - Logger to record the flow of Webservice Books - INFO - The request is successful 200 and the user is successfully created
+2025-10-12 14:15:23,032 - Logger to record the flow of Webservice Books - INFO - The request is successful 201 and the user is successfully created

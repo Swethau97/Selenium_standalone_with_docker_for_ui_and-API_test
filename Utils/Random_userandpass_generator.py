@@ -20,7 +20,7 @@ def generate_random_password():
     # Define minimum password length and special characters
     min_length = 8  # Minimum length
     max_length = 15  # Maximum length
-    special_characters = "!@#$%^&*()-_+=<>?/|~"
+    special_characters = "!@#$%^&*()-+=<>?/|~"
 
     # Ensure at least one character of each required type
     password = [

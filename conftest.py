@@ -1,28 +1,38 @@
-#Initializing a singleton driver instance
-from webdriver_manager.chrome import ChromeDriverManager
+import os
 import pytest
-from Utils.Logger import initialize_logger
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-import webdriver_manager
-class SingletonDriverinstance:
-    _isinstance=None
+
+
+class SingletonDriverInstance:
+    _instance = None
+
     def __new__(cls, *args, **kwargs):
-        if cls._isinstance is None:
-            chrome_option=Options()
-            chrome_option.add_argument('--start-maximized')
-            service=Service(ChromeDriverManager().install())
-            cls._isinstance=webdriver.Chrome(service=service,options=chrome_option)
-            return cls._isinstance
-    @classmethod
-    def quit_session(cls):
-        if cls._isinstance:
-            cls._isinstance.quit()
-            cls._isinstance=None
+        if cls._instance is None:
+            selenium_url = os.getenv("SELENIUM_URL")
+
+            chrome_options = Options()
+            chrome_options.add_argument("--no-sandbox")
+            chrome_options.add_argument("--disable-dev-shm-usage")
+            chrome_options.add_argument("--headless")
+            chrome_options.add_argument("--disable-gpu")
+            chrome_options.add_argument("--window-size=1920,1080")
+
+            if selenium_url:
+                print(f"✅ Running in Docker - connecting to remote Selenium at {selenium_url}")
+                cls._instance = webdriver.Remote(
+                    command_executor=selenium_url,
+                    options=chrome_options
+                )
+            else:
+                print("✅ Running locally - using local ChromeDriver")
+                cls._instance = webdriver.Chrome(options=chrome_options)
+
+        return cls._instance
+
 
 @pytest.fixture(scope="session")
 def driver():
-    driver=SingletonDriverinstance()
+    driver = SingletonDriverInstance()
     yield driver
-    SingletonDriverinstance.quit_session()
+    driver.quit()
